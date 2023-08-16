@@ -66,14 +66,15 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 ### 5. 14:53 31/5/2023, chuyển nốt 1.500.000đ tiền case, Trọng bỗng nhiên rep tin nhắn lúc 15:24
 
 - Sau 3 ngày không có tin tức gì, chuyển nốt 1.500.000đ với hy vọng Trọng rep, ai ngờ Trọng rep thật.
-- Nhận được thông tin chưa đẩy case vào anode -> vẫn oke vui vẻ
   <img src="assets/21.jpg" width="360">
 
 ### 6. 14:53 31/5/2023, chuyển nốt 1.500.000đ tiền case, Trọng bỗng nhiên rep tin nhắn lúc 15:24
 
-- Sau 3 ngày không có tin tức gì, chuyển nốt 1.500.000đ với hy vọng Trọng rep, ai ngờ Trọng rep thật.
 - Nhận được thông tin chưa đẩy case vào anode -> vẫn oke vui vẻ
-  <img src="assets/21.jpg" width="360">
+<p float="left">
+<img src="assets/22.jpg" width="360">
+<img src="assets/23.jpg" width="360">
+</p>
 
 ### 7. Chuyển khoản thêm 500.000đ để Trọng nhờ nhà máy cho anode ké
 
@@ -200,7 +201,7 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 <img src="assets/66.jpg" width="360">
 </p>
 
-### 14. Vẫn chưa nhận được tạ đồng
+### 15. Vẫn chưa nhận được tạ đồng
 
 - 31/7/2023: Tiếp tục quên gửi tạ đồng
 - 5/8/2023 - Hiện tại: Vẫn chưa rep tin nhắn, cũng không có đơn hàng nào được gửi
@@ -211,11 +212,12 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 </p>
 
 ### Note
+
 - Tất cả những lần Quốc Trọng không rep tin nhắn mình, mình vẫn thấy Trọng online và đang đi comment dạo ở nhiều bài viết, cũng như đăng bán hàng
 
-
 ## Tổng kết
+
 - Mình dù sao cũng cảm ơn Trọng đã sửa bản vẽ giúp mình.
-- Ở đây mình chủ yếu phốt về **THÁI ĐỘ LÀM VIỆC** của Trọng. 
+- Ở đây mình chủ yếu phốt về **THÁI ĐỘ LÀM VIỆC** của Trọng.
 - Trong quá trình làm việc từ tháng 3, hứa hẹn đến khi đầu tháng 7 nhận kit, thứ mình hay được nhận được nhất là các lý do của Trọng để delay gửi hàng
 - Hiện giờ vẫn chưa lấy được tạ đồng và half plate. Nhưng mình cũng đã quá mệt mỏi với con kit này.
