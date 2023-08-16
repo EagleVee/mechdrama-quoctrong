@@ -82,7 +82,7 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 <img src="assets/25.jpg" width="360">
 </p>
 
-### 8. Hỏi lại tình hình xưởng báo
+### 8. Hỏi lại tình hình thông tin xưởng báo lại
 
 - Tối ngày 31/5 - 3/6: báo chưa anode được
 <p float="left">
@@ -128,7 +128,7 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 - Xưởng vẫn chưa gửi kit cho Trọng
 - Nhờ Trọng hỏi xưởng ship thẳng ra Hà Nội
 - Trọng báo ship được thẳng ra Hà Nội
-- Tặng Trọng 500k trước đây gửi, trừ tiền ship
+- Tặng Trọng 500k trước đây gửi, sau khi trừ tiền ship
 
 <p float="left">
 <img src="assets/46.jpg" width="360">
