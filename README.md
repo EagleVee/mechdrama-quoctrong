@@ -68,7 +68,7 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 - Sau 3 ngày không có tin tức gì, chuyển nốt 1.500.000đ với hy vọng Trọng rep, ai ngờ Trọng rep thật.
   <img src="assets/21.jpg" width="360">
 
-### 6. 14:53 31/5/2023, chuyển nốt 1.500.000đ tiền case, Trọng bỗng nhiên rep tin nhắn lúc 15:24
+### 6. Thông tin: Case chưa được anode
 
 - Nhận được thông tin chưa đẩy case vào anode -> vẫn oke vui vẻ
 <p float="left">
