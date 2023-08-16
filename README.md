@@ -194,10 +194,10 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 - 14/7/2023: Thông tin: Đã CNC xong tạ đồng và xử lý
 
 <p float="left">
-<img src="assets/63.jpg" >
-<img src="assets/64.jpg" >
-<img src="assets/65.jpg" >
-<img src="assets/66.jpg" >
+<img src="assets/63.jpg" width="360">
+<img src="assets/64.jpg" width="360">
+<img src="assets/65.jpg" width="360">
+<img src="assets/66.jpg" width="360">
 </p>
 
 ### 14. Vẫn chưa nhận được tạ đồng
@@ -206,8 +206,8 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 - 5/8/2023 - Hiện tại: Vẫn chưa rep tin nhắn, cũng không có đơn hàng nào được gửi
 
 <p float="left">
-<img src="assets/65.jpg" >
-<img src="assets/66.jpg" >
+<img src="assets/65.jpg" width="360">
+<img src="assets/66.jpg" width="360">
 </p>
 
 ### Note
