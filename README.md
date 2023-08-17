@@ -8,21 +8,20 @@
 - Quốc Trọng báo file có vấn đề và offer sửa lại để giảm giá thành
 
 <p float="left">
-
 <img src="assets/1.jpg" width="360">
-
 <img src="assets/2.jpg" width="360">
-
 <img src="assets/3.jpg" width="360">
-
 <img src="assets/4.jpg" width="360">
-
 <img src="assets/5.jpg" width="360">
-
 <img src="assets/6.jpg" width="360">
-
 <img src="assets/7.jpg" width="360">
+</p>
 
+Hứa hẹn chamfer:
+
+<p>
+<img src="assets/68.jpg" width="360">
+<img src="assets/72.jpg" width="360">
 </p>
 
 # Báo giá
@@ -66,7 +65,7 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 ### 5. 14:53 31/5/2023, chuyển nốt 1.500.000đ tiền case, Trọng bỗng nhiên rep tin nhắn lúc 15:24
 
 - Sau 3 ngày không có tin tức gì, chuyển nốt 1.500.000đ với hy vọng Trọng rep, ai ngờ Trọng rep thật.
-<img src="assets/21.jpg" width="360">
+  <img src="assets/21.jpg" width="360">
 
 ### 6. Thông tin: Case chưa được anode
 
