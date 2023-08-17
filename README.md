@@ -204,7 +204,7 @@ Ngày 29/03/2023, mình và Trọng đã chốt được design và gửi bên x
 ### 15. Vẫn chưa nhận được tạ đồng
 
 - 31/7/2023: Tiếp tục quên gửi tạ đồng
-- 5/8/2023 - Hiện tại: Vẫn chưa rep tin nhắn, cũng không có đơn hàng nào được gửi
+- 5/8/2023 - Hiện tại: Vẫn chưa rep tin nhắn, không có một thời điểm cụ thể để giao tạ, cũng không có đơn hàng nào được gửi
 
 <p float="left">
 <img src="assets/65.jpg" width="360">
